@@ -25,6 +25,16 @@ function busquedadAvanzada() {
       categoría: "Ropa",
       precio: 200,
     },
+    {
+      nombre: "ZapatillasA",
+      categoría: "Ropa",
+      precio: 900,
+    },
+     {
+      nombre: "ZapatillasB",
+      categoría: "Ropa",
+      precio: 1500,
+    },
   ];
 
   function buscarCategoria(categoría) {
